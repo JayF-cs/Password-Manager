@@ -1,0 +1,6 @@
+cryptography
+pyotp
+qrcode
+Pillow
+pyperclip
+pynput
