@@ -35,6 +35,10 @@ src/
         ├── MFA.py
         └── hashing.py
 
+## Install Dependencies
+
+pip install -r requirements.txt
+
 
 ## Security Highlights 🔒
 
